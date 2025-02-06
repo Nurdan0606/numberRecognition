@@ -5,10 +5,10 @@
 1) pip install -r requirements.txt
 
 Если хотите тренировать модель:
-2) распокавать train-images-labels.rar
+1) распокавать train-images-labels.rar
 3) mnist_opener.py
 4) reader.py
 5) mnist_train.py
 
 Если хотите просто запустить:
-6) game.py
+1) game.py
